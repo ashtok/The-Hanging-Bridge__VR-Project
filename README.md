@@ -46,3 +46,8 @@ A cohort of seven participants tested the application. They were monitored durin
 
 ## Conclusion
 The Hanging Bridge VR project successfully provided participants with a controlled environment to confront their fear of falling. The results indicate a significant improvement in focus and resilience, affirming the potential of virtual reality as a tool for therapeutic experiences.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
