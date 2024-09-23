@@ -1,6 +1,9 @@
 # The Hanging Bridge - VR Project
 
-[![Watch the video](https://img.youtube.com/vi/GGKp40hNwck/0.jpg)](https://www.youtube.com/watch?v=GGKp40hNwck)
+### **Watch Video Here**
+[![Watch the video](https://img.youtube.com/vi/GGKp40hNwck/0.jpg)](https://www.youtube.com/watch?v=GGKp40hNwck)  
+*Click the image above to watch!*
+
 
 **Developed by:**  
 Ashutosh Mahajan and Pallabi Pathak  
