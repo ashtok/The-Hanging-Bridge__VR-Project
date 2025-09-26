@@ -1,4 +1,4 @@
-# The Hanging Bridge - VR Project
+# Step of Faith: Risk and Fear in Immersive Realities
 
 ### **Watch Video Here**
 [![Watch the video](https://img.youtube.com/vi/GGKp40hNwck/0.jpg)](https://www.youtube.com/watch?v=GGKp40hNwck)  
